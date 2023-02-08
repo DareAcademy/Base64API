@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BbapLaFCwgyrBFbPYuvB9t8IQCcvYTFXTrcgPGdBozw=",
+  "Source": "PoC_UploadImage",
+  "BasePath": "_content/PoC_UploadImage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
